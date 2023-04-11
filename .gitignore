@@ -1,0 +1,4 @@
+/lib/stt/model/*
+/lib/stt/__*
+/lib/util/__pycache__
+/.venv*
